@@ -1,0 +1,5 @@
+1	zuni_2004	ITU1234*
+2	itu_9	Hat12345@
+3	fire_678	Goldstar9+
+4	star_123	Goat12345%
+5	fault_09	Itu789&fi
